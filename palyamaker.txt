@@ -1,0 +1,10 @@
+f f f f f f f f f f 
+f h h h f f f f f f 
+f h h h h f f f f f 
+f h h h h f f f f f 
+f b h h c f f f f f 
+f h h h h f f f f f 
+f h h h h f f f f f 
+f h h h h f f f f f 
+f h f f f f f f f f 
+f w f f f f f f f f 
