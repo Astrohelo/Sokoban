@@ -1,3 +1,2 @@
 # Sokoban
-Sokoban Java nyelven
-Képek a játékrol: preview.png
+Sokoban Java nyelven A Programozás alapjai 3. c tárgyra készült.
